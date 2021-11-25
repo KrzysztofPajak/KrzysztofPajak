@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=KrzysztofPajak&count_private=false&show_icons=true&theme=light&include_all_commits=false">
+
+- Contributor on [Grandnode](https://github.com/Grandnode/Grandnode2) (The best ASP.NET CORE ECOMMERCE PLATFORM)
+
+![https://www.linkedin.com/in/krzysztof-pajak-a06122110/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
