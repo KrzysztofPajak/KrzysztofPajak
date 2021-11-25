@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=KrzysztofPajak&count_private=false&show_icons=true&theme=light&include_all_commits=false">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPajak&layout=compact)](https://github.com/KrzysztofPajak)
+
+<img src="https://github-readme-stats.vercel.app/api?username=KrzysztofPajak&count_private=false&show_icons=true&theme=light&include_all_commits=false">
+
 
 - Contributor on [Grandnode](https://github.com/Grandnode/Grandnode2) (The best ASP.NET CORE ECOMMERCE PLATFORM)
 
