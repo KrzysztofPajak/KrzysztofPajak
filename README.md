@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPajak&layout=compact)](https://github.com/KrzysztofPajak)
 
 - Contributor on [Grandnode](https://github.com/Grandnode/Grandnode2) (The best ASP.NET CORE ECOMMERCE PLATFORM)
-- 📫 How to reach me on [LinkedIn]([https://www.linkedin.com/in/krzysztof-pajak-a06122110](https://www.linkedin.com/in/krzysztof-p-a06122110/)).
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/krzysztof-p-a06122110/)
 
